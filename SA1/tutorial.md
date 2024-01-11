@@ -1,7 +1,7 @@
 Print the Value on Dice
 ======================
 In this activity, you will roll the dice and display the value on the dice face.
-<img src= "" width = "100%" height = "50%">
+<img src= "https://media.slid.es/uploads/1525749/images/10918939/C115_SA1.gif" width = "100%" height = "50%">
 
 
 
